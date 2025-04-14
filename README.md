@@ -2,7 +2,7 @@
 
 This Tool Is Made For Pentesting Research!
 
-CVE - (Will be updated in future)
+CVE Number : CVE-2025-3556
 
 CWE - 307
 
